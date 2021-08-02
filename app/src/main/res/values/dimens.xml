@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_component_tiny">4dp</dimen>
+    <dimen name="margin_component_smaller">6dp</dimen>
+    <dimen name="margin_component_small">8dp</dimen>
+    <dimen name="margin_component">16dp</dimen>
+    <dimen name="margin_component_big">24dp</dimen>
+    <dimen name="margin_component_large">48dp</dimen>
+
+    <dimen name="height_toolbar_dialog">40dp</dimen>
+    <dimen name="height_element_normal">40dp</dimen>
+    <dimen name="height_element_small">30dp</dimen>
+
+    <dimen name="height_toolbar">48dp</dimen>
+    <dimen name="height_bottom_menu">48dp</dimen>
+    <dimen name="height_edt_login">48dp</dimen>
+
+    <dimen name="padding_component_tiny">4dp</dimen>
+    <dimen name="padding_component_smaller">6dp</dimen>
+    <dimen name="padding_component_small">8dp</dimen>
+    <dimen name="padding_component">16dp</dimen>
+
+    <dimen name="text_size_super_large">20sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_small_lg">10sp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="icon_size_small">20dp</dimen>
+    <dimen name="margin_control_bright_zoom">3dp</dimen>
+
+</resources>

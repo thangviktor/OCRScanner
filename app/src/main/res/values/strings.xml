@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OCR Scanner</string>
+    <string name="result_content">result_content</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="scan_history">Scan history</string>
+    <string name="image_result">Image Result</string>
+</resources>
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551828162810",
+    "project_id": "ocrscanner-fd522",
+    "storage_bucket": "ocrscanner-fd522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551828162810:android:feab1fecbdbab5d46be143",
+        "android_client_info": {
+          "package_name": "com.example.ocrscannerreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551828162810-qg02i55fbnch4otu6gbh5ad6abrgqej9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBex3Dmu5r92N54n662_5L6sDgDemFojus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551828162810-qg02i55fbnch4otu6gbh5ad6abrgqej9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
